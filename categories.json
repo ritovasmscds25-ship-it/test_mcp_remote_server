@@ -1,81 +1,161 @@
 {
-  "Food & Dining": [
-    "Groceries",
-    "Restaurants",
-    "Cafes",
-    "Food Delivery",
-    "Snacks"
+  "food": [
+    "groceries",
+    "fruits_vegetables",
+    "dairy_bakery",
+    "dining_out",
+    "coffee_tea",
+    "snacks",
+    "delivery_fees",
+    "other"
   ],
-  "Transportation": [
-    "Public Transport",
-    "Fuel",
-    "Taxi & Rideshare",
-    "Vehicle Maintenance",
-    "Parking"
+  "transport": [
+    "fuel",
+    "public_transport",
+    "cab_ride_hailing",
+    "parking",
+    "tolls",
+    "vehicle_service",
+    "other"
   ],
-  "Housing": [
-    "Rent",
-    "Home Maintenance",
-    "Furniture",
-    "Household Supplies"
+  "housing": [
+    "rent",
+    "maintenance_hoa",
+    "property_tax",
+    "repairs_service",
+    "cleaning",
+    "furnishing",
+    "other"
   ],
-  "Utilities": [
-    "Electricity",
-    "Water",
-    "Internet",
-    "Mobile Phone",
-    "Gas"
+  "utilities": [
+    "electricity",
+    "water",
+    "gas",
+    "internet_broadband",
+    "mobile_phone",
+    "tv_dth",
+    "other"
   ],
-  "Healthcare": [
-    "Doctor",
-    "Medicine",
-    "Medical Tests",
-    "Health Insurance"
+  "health": [
+    "medicines",
+    "doctor_consultation",
+    "diagnostics_labs",
+    "insurance_health",
+    "fitness_gym",
+    "other"
   ],
-  "Shopping": [
-    "Clothing",
-    "Electronics",
-    "Personal Items",
-    "Online Shopping"
+  "education": [
+    "books",
+    "courses",
+    "online_subscriptions",
+    "exam_fees",
+    "workshops",
+    "other"
   ],
-  "Entertainment": [
-    "Movies",
-    "Events",
-    "Games",
-    "Subscriptions",
-    "Hobbies"
+  "family_kids": [
+    "school_fees",
+    "daycare",
+    "toys_games",
+    "clothes",
+    "events_birthdays",
+    "other"
   ],
-  "Education": [
-    "Tuition",
-    "Books",
-    "Courses",
-    "Stationery"
+  "entertainment": [
+    "movies_events",
+    "streaming_subscriptions",
+    "games_apps",
+    "outing",
+    "other"
   ],
-  "Personal Care": [
-    "Salon",
-    "Skincare",
-    "Fitness",
-    "Other Personal Care"
+  "shopping": [
+    "clothing",
+    "footwear",
+    "accessories",
+    "electronics_gadgets",
+    "appliances",
+    "home_decor",
+    "other"
   ],
-  "Travel": [
-    "Flights",
-    "Accommodation",
-    "Local Travel",
-    "Travel Food"
+  "subscriptions": [
+    "saas_tools",
+    "cloud_ai",
+    "newsletters",
+    "music_video",
+    "storage_backup",
+    "other"
   ],
-  "Financial": [
-    "Bank Fees",
-    "Loan Payment",
-    "Investment Fees",
-    "Taxes"
+  "personal_care": [
+    "salon_spa",
+    "grooming",
+    "cosmetics",
+    "hygiene",
+    "other"
   ],
-  "Gifts & Donations": [
-    "Gifts",
-    "Charity",
-    "Celebrations"
+  "gifts_donations": [
+    "gifts_personal",
+    "charity_donation",
+    "festivals",
+    "other"
   ],
-  "Other": [
-    "Miscellaneous",
-    "Uncategorized"
+  "finance_fees": [
+    "bank_charges",
+    "late_fees",
+    "interest",
+    "brokerage",
+    "other"
+  ],
+  "business": [
+    "software_tools",
+    "hosting_domains",
+    "marketing_ads",
+    "contractor_payments",
+    "travel_business",
+    "office_supplies",
+    "other"
+  ],
+  "travel": [
+    "flights",
+    "hotels",
+    "train_bus",
+    "visa_passport",
+    "local_transport",
+    "food_travel",
+    "other"
+  ],
+  "home": [
+    "household_supplies",
+    "cleaning_supplies",
+    "kitchenware",
+    "small_repairs",
+    "pest_control",
+    "other"
+  ],
+  "pet": [
+    "food",
+    "vet",
+    "grooming",
+    "supplies",
+    "other"
+  ],
+  "taxes": [
+    "income_tax",
+    "gst",
+    "professional_tax",
+    "filing_fees",
+    "other"
+  ],
+  "investments": [
+    "mutual_funds",
+    "stocks",
+    "fd_rd",
+    "gold",
+    "crypto",
+    "brokerage_fees",
+    "other"
+  ],
+  "misc": [
+    "uncategorized",
+    "rounding",
+    "other"
   ]
 }
